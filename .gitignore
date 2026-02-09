@@ -1,1 +1,5 @@
--e "rawData/\nresults/\nconfig/\noldAnalysis/\nnotebooks/data/pklForTheo.pkl" 
+rawData/
+results/
+config/
+oldAnalysis/
+notebooks/data/pklForTheo.pkl
