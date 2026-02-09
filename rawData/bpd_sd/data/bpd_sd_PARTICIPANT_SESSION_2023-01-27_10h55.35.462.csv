@@ -1,0 +1,5 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","view_history","rt","event","trial","time","trialtype","numBlurs"
+"pavlovia","0","3","0.0-0.0","","","","","","",""
+"instructions","1","1459","0.0-1.0","[{""page_index"":0,""viewing_time"":1456}]","1456","","","","",""
+"","","","","","","blur","2","4045","blurevent","1"
+"","","","","","","focus","2","4048","focusevent",""

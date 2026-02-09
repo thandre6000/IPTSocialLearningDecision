@@ -1,0 +1,2 @@
+PROLIFIC_PID,totalTime,qa:dec_%rt<300,qa:dec_%rt>10000,qa:dec_%Conseqs,qa:dec_instruxDur,qa:frat_%rt<300,qa:frat_%rt>10000,qa:frat_%Conseqs,qa:frat_instruxDur,qa:blurEv,subj2LR_posOC,subj2LR_negOC,subj2p0_3prm,subj2NLL_biasedOC,subj2LRTp_biasedOC,subj2LR_biasedOC
+5f2f86864fd821374b4367bc,317.618,0.7803030303030303,0.007575757575757576,0.8712121212121212,2.0,0.0,0.0,0.8333333333333334,0.6,0.0,0.00494386211003525,0.5,1.0,425.9192167336717,1.0,-0.4950561378899648

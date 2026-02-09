@@ -1,0 +1,6 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","event","trial","time","trialtype","numBlurs"
+"pavlovia","0","2","0.0-0.0","","","","",""
+"","","","","blur","1","1952","blurevent","1"
+"","","","","focus","1","3403","focusevent",""
+"","","","","blur","1","12756","blurevent",""
+"","","","","focus","1","470517","focusevent",""

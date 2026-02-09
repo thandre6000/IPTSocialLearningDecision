@@ -1,0 +1,7 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","view_history","rt","event","trial","time","trialtype","success","numBlurs"
+"pavlovia","0","3","0.0-0.0","","","","","","","",""
+"instructions","1","3246","0.0-1.0","[{""page_index"":0,""viewing_time"":3243}]","3243","","","","","",""
+"","","","","","","fullscreenenter","2","6683","fullscreenenter","",""
+"fullscreen","2","7660","0.0-2.0","","","","","","","true",""
+"","","","","","","fullscreenexit","3","30735","fullscreenexit","",""
+"","","","","","","blur","3","38046","blurevent","","1"
